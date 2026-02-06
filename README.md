@@ -1,3 +1,4 @@
+![UI Preview](Screenshot 2026-02-07 042342.png)
 # Figma UI Prototype
 
 This repository showcases my first few UI design prototypes created using Figma.
